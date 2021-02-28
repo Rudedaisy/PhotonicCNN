@@ -1,3 +1,5 @@
-# CascadePruning
+# PhotonicCNN
 
-Project under progress... might need to reorganize directories
+Training and inference evaluation of photonic CNN accelerator
+
+Usage: python run.py
